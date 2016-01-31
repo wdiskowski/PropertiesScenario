@@ -1,0 +1,46 @@
+[
+	{
+		"mandant": 1,
+		"vertrag": 1,
+		"dialog_anzahl": 2,
+		"dialoglist": [
+			{
+				"dialog_index": 0,
+				"verlauf_item_anzahl": 2,
+				"verlauflist": [
+					{
+						"verlauf_item_index": 0,
+						"verlauf_item_label": "M",
+						"verlauf_item_color": "green"
+					},
+					{
+						"verlauf_item_index": 1,
+						"verlauf_item_label": "S",
+						"verlauf_item_color": "yellow"
+					}
+				]
+			},
+			{
+				"dialog_index": 1,
+				"verlauf_item_anzahl": 1,
+				"signallist": [
+					{
+						"signal_index": 0,
+						"signal_label": "OBZ",
+					}
+					{
+						"signal_index": 1,
+						"signal_label": "\u00C4",
+					}
+				]
+				"verlauflist": [
+					{
+						"verlauf_item_index": 0,
+						"verlauf_item_label": "E",
+						"verlauf_item_color": "black"
+					}
+				]
+			}
+		]
+	}
+]
